@@ -3,7 +3,11 @@
 
 Technologies:
 •	Java Development Kit (JDK)
+
 •	Languages & Frameworks : Java, Spring Boot
+
 •	Database : MYSQL
+
 •	For testing ApI’s : Postman
+
 •	Maven (for project build management)
